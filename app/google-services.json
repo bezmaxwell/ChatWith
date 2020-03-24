@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "64233700341",
+    "firebase_url": "https://chatwith-6af73.firebaseio.com",
+    "project_id": "chatwith-6af73",
+    "storage_bucket": "chatwith-6af73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64233700341:android:2fe8160b366a976af93ebc",
+        "android_client_info": {
+          "package_name": "com.example.chatwith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64233700341-veu15rpcbbkllfdhmkl0qpfjjqpptun0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0S6NJ1UGSjN1CQvKeITuXKjoeiVTMOyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64233700341-veu15rpcbbkllfdhmkl0qpfjjqpptun0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
